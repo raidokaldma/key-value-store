@@ -5,7 +5,7 @@ Steps to get it running in OpenShift cloud
 ------------------------------------------
 
 1. Create new NodeJS 0.6 application in OpenShift.
-  * Souce Code: https://github.com/raidokaldma/keyval.hammertime.ee.git
+  * Souce Code: https://github.com/raidokaldma/key-value-store
 2. Add new cartridge: MongoDB
 3. Restart your application to pick up MongoDB environment variables:
   * Option 1 (using OpenShift RHC Client Tools):
